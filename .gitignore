@@ -1,0 +1,13 @@
+# Python (Backend için)
+SkinSense-backend/venv/
+SkinSense-backend/__pycache__/
+SkinSense-backend/*.pyc
+
+# Node/Expo (Mobil için)
+SkinSense-Mobile/node_modules/
+SkinSense-Mobile/.expo/
+SkinSense-Mobile/dist/
+
+# Genel
+.DS_Store
+.env

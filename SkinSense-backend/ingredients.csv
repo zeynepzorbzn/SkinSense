@@ -1,0 +1,12 @@
+name,risk_level,comedogenic_rating,description
+niacinamide,Safe,0,"B3 vitamini. Cilt bariyerini güçlendirir, lekelere iyi gelir ve sebum dengeler."
+hyaluronic acid,Safe,0,"Kendi ağırlığının 1000 katı su tutabilen harika bir nemlendirici."
+retinol,Moderate,0,"A vitamini türevi. Kırışıklık ve akne tedavisinde çok güçlüdür ancak başlangıçta cildi tahriş edebilir."
+dimethicone,Safe,1,"Bir tür silikon. Ciltte nemi hapseden ipeksi bir bariyer oluşturur ancak iyi temizlenmezse sivilce yapabilir."
+fragrance,High,0,"Yapay parfüm bileşenleri genel adıdır. Hassas ve alerjik ciltler için 1 numaralı tahriş sebebidir."
+alcohol denat,High,0,"Ürünün hızlı kurumasını sağlayan kurutucu alkol. Uzun vadede cilt bariyerini mahveder."
+tocopherol,Safe,2,"Saf E vitamini. Antioksidandır ancak saf formu yağlı ciltlerde gözenek tıkayabilir."
+lactic acid,Safe,0,"AHA grubundan nazik bir peeling asididir. Kuru ciltler için idealdir."
+phenoxyethanol,Moderate,0,"Kozmetiklerde yaygın kullanılan bir koruyucu maddedir. Yüksek dozları tahriş edicidir."
+panthenol,Safe,0,"B5 vitamini. Cildi yatıştırır, onarır ve kızarıklığı alır."
+mineral oil,Safe,4,"Petrol türevi bir yağdır. Nemi mükemmel hapseder fakat komedojenik skoru çok yüksektir, gözenekleri tıkar."
