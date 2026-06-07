@@ -74,4 +74,5 @@ SkinSense, kozmetik ürünlerin içeriklerini barkod veya ürün ismi üzerinden
 - `requirements.txt`: Tüm proje bağımlılıkları.
 
 ---
+```
 *Proje Geliştiricisi: Zeynep Nur Zorbozan*
