@@ -44,24 +44,24 @@ SkinSense, kozmetik ürünlerin içeriklerini barkod veya ürün ismi üzerinden
 ## ⚙️ Kurulum & Çalıştırma (Quick Start)
 
 1.  **Repoyu klonlayın:**
-
+```bash
     git clone [https://github.com/zeynepzorbzn/SkinSense.git](https://github.com/zeynepzorbzn/SkinSense.git)
     cd SkinSense
     ```
 
 2.  **Sanal ortamı oluşturun ve aktifleştirin:**
-
+```bash
     python -m venv venv
     source venv/bin/activate  # Windows: venv\Scripts\activate
     ```
 
 3.  **Bağımlılıkları yükleyin:**
-
+```bash
     pip install -r requirements.txt
     ```
 
 4.  **Uygulamayı başlatın:**
-
+```bash
     uvicorn main:app --reload
     ```
 
