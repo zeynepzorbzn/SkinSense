@@ -1,9 +1,15 @@
 # SkinSense 🧴✨
 
-SkinSense, kozmetik ürünlerin içeriklerini barkod veya ürün ismi üzerinden analiz eden, kullanıcı sağlığını ön planda tutan **AI destekli bir cross-platform** uygulamadır. Proje, görüntü işleme, veri eşleme ve modern web teknolojilerini bir araya getiren bir mühendislik çözümüdür.
+SkinSense, kozmetik ürünlerin içeriklerini barkod, ürün ismi veya içerik listesi üzerinden analiz ederek, kullanıcıların kişisel cilt tiplerine, alerjilerine ve hassasiyetlerine uygun ürünleri seçmelerini sağlayan **AI tabanlı bir sağlık ve yaşam asistanıdır.** Proje, görüntü işleme, veri eşleme ve modern web teknolojilerini bir araya getiren bir mühendislik çözümüdür.
 
 ---
+## 💡 Projenin Amacı (Problem & Çözüm)
+Modern kozmetik ürünlerinin etiketleri karmaşık ve anlaşılması güç kimyasal isimlerle doludur. SkinSense, bu karmaşıklığı ortadan kaldırarak;
+*   **Kişiselleştirilmiş Güvenlik:** Kullanıcının özel alerji ve cilt hassasiyet profiline göre ürünün "güvenli" veya "riskli" olduğunu anında raporlar.
+*   **Bilinçli Tüketici:** Ürün etiketlerindeki içeriklerin ne anlama geldiğini kullanıcıya sade ve anlaşılır bir dille açıklar.
+*   **Sağlık Odaklı Seçim:** Karmaşık içerik listelerini AI ile saniyeler içinde analiz ederek, kullanıcıyı olası cilt problemlerinden korumayı hedefler.
 
+---
 ## 🛠 Teknik Mimari (Tech Stack)
 
 ### Backend & API
